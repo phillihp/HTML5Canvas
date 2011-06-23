@@ -85,7 +85,7 @@ drawScreen();
 
 function drawScreen() {
 //Background
-context.fillStyle = "#ffffaa";
+context.fillStyle = "#aaaaff";
 context.fillRect(0, 0, 500, 300);
 //Box
 context.strokeStyle = "#000000"; 
